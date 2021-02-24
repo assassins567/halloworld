@@ -1,2 +1,3 @@
 # halloworld
-practice
+
+生亦何欢，死亦何苦
